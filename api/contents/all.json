@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-08T08:52:01.561427Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-08T07:58:12.138248Z",
+      "mimetype": null,
+      "name": "student_exercises.ipynb",
+      "path": "student_exercises.ipynb",
+      "size": 3985,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-08T08:52:01.560959Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-08T08:50:22.468024Z",
+      "mimetype": "text/plain",
+      "name": "requirements.txt",
+      "path": "requirements.txt",
+      "size": 6,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-08T08:52:01.560416Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-05T13:02:52.202954Z",
+      "mimetype": "text/x-python",
+      "name": "checker.py",
+      "path": "checker.py",
+      "size": 2918,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-08T08:52:01.561145Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-08T08:52:01.561145Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
